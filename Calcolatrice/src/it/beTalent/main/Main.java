@@ -10,7 +10,7 @@ public class Main {
 		int a = 5;
 		int b = 6;
 		int c = 7;
-		
+		int d=8;
 		int somma = calc.somma(a, b, c);
 		
 		System.out.println(somma);
